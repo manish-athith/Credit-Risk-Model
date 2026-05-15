@@ -49,9 +49,8 @@ Credit-Risk-Model/
 ---
 
 ## 📸 Dashboard Preview
-*(Placeholder — replace with your actual dashboard screenshot)*
 
-![Dashboard Preview]
+
 <img width="1916" height="972" alt="image" src="https://github.com/user-attachments/assets/548bdec3-d5c9-4990-a395-9a7c6a45a669" />
 
 
@@ -61,11 +60,14 @@ Credit-Risk-Model/
 1. Clone the repository:
    git clone https://github.com/manish-athith/Credit-Risk-Model.git
    cd Credit-Risk-Model
-2. Create and activate a virtual environment (Python 3.11):
+   
+3. Create and activate a virtual environment (Python 3.11):
    py -3.11 -m venv .venv
    .venv\Scripts\activate
+   
 3.Install dependencies:
   pip install -r requirements.txt
+  
 4.Run the Streamlit app:
   streamlit run main.py
 
